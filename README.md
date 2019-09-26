@@ -1,25 +1,23 @@
-# dracula-theme for Telegram Android 
+# Dracula for [Telegram Android](https://draculatheme.com/telegram-android/)
 
-[demo2]:https://raw.githubusercontent.com/huezo/dracula-theme/master/TD.jpg
-![demo2][demo2]
+> A dark theme for [Telegram Android](https://draculatheme.com/telegram-android/).
 
+![Screenshot](https://raw.githubusercontent.com/huezo/dracula-theme/master/TD.jpg)
 
+## Install
 
-[demo]:https://raw.githubusercontent.com/huezo/dracula-theme/master/dracula-theme.png
-![demo][demo]
+All instructions can be found at [draculatheme.com/telegram-android/](https://draculatheme.com/telegram-android/).
 
+## Team
 
-
-
-
-
-[demo1]:https://raw.githubusercontent.com/huezo/dracula-theme/master/dracula-theme1.png
-![demo1][demo1]
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
 
 
+| [![Huezo](https://avatars0.githubusercontent.com/u/15940634?s=460&v=4)](https://github.com/huezo)
+--- | ---
 
 
-# ....
+## License
 
-[Telegram theme for Android.](https://draculatheme.com/)
+[GPLv3+](./LICENSE)
