@@ -14,7 +14,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 
 
-| [![Huezo](https://avatars0.githubusercontent.com/u/15940634?s=460&v=4)](https://github.com/huezo)
+| [![Huezo](https://avatars0.githubusercontent.com/u/15940634?s=70)](https://github.com/huezo)
 --- | ---
 
 
