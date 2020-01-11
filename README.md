@@ -1,8 +1,8 @@
-# Dracula for [Telegram Android](https://draculatheme.com/telegram-android/)
+# Dracula for [Telegram Android](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-> A dark theme for [Telegram Android](https://draculatheme.com/telegram-android/).
+> A dark theme for [Telegram Android](https://play.google.com/store/apps/details?id=org.telegram.messenger).
 
-![Screenshot](https://raw.githubusercontent.com/huezo/dracula-theme/master/TD.jpg)
+![Screenshot](./screenshot.png)
 
 ## Install
 
@@ -10,14 +10,11 @@ All instructions can be found at [draculatheme.com/telegram-android/](https://dr
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/telegram-android/graphs/contributors).
 
-
-
-[![Huezo](https://avatars0.githubusercontent.com/u/15940634?s=70)](https://github.com/huezo)  
---- 
-[Huezo](https://github.com/huezo)  
-
+[![Huezo](https://avatars0.githubusercontent.com/u/15940634?s=70)](https://github.com/huezo) |
+--- |
+[Huezo](https://github.com/huezo) |
 
 ## License
 

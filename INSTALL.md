@@ -1,13 +1,10 @@
-**1.Download the "dracula-theme.attheme"**
+### [Telegram Android](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
+#### Install
 
-**2.Send the file in a chat**
+Download using the [GitHub .zip download](https://github.com/dracula/telegram-android/archive/master.zip) option
 
-
-**3.Click on the file**
-
-
-**4.Click on "APPLY"**
-
-
-![APPLY](https://raw.githubusercontent.com/dracula/telegram-android/master/Screenshot_20191223_215225_org.telegram.messenger.jpg)
+1. Download the `dracula-theme.attheme`
+1. Send the file in a chat
+1. Click on the file
+1. Click on "APPLY"
