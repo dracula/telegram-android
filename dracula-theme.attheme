@@ -83,7 +83,7 @@ chat_emojiPanelBackspace=-11470213
 featuredStickers_addButtonPressed=1090519039
 chat_outAudioTitleText=-460558
 chat_emojiPanelBackground=-14144970
-chats_unreadCounter=-10325340
+chats_unreadCounter=-6770177
 chat_recordedVoiceProgressInner=-10325340
 groupcreate_hintText=-460558
 featuredStickers_buttonText=-14144970
@@ -523,6 +523,7 @@ avatar_text=-14144970
 chat_searchPanelText=-460558
 chat_outSentClock=-18324
 chat_inContactIcon=-10325340
+
 #
 # By: @huezohuezo1990
 # http://t.me/huezohuezo1990
@@ -530,3 +531,4 @@ chat_inContactIcon=-10325340
 #
 # GPLv3+
 #
+
